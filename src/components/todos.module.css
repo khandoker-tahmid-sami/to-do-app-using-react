@@ -1,0 +1,11 @@
+.todos{
+    background-color: #00575a;
+    width: 50%;
+    padding: 1rem;
+    border-radius: 10px;
+    height: 50vh;
+    overflow: scroll;
+    color: white;
+    box-sizing: border-box;
+}
+
